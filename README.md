@@ -1,54 +1,55 @@
 # 🌌 Nova Clicker
 
-**a lofi cosmic idle clicker** — click a 3D star, collect stardust, evolve through 5 stages, and unlock achievements.
+**A lofi cosmic idle clicker** — click a 3D star, collect stardust, evolve through 5 stages, and unlock achievements.
 
-this is a continuation of **Gouda Power Clicker V3.7** — evolved from cheese to cosmos.
-
----
-
-## ✨ features
-
-- ⭐ **3D evolving star** — watch it grow from stardust to cosmic
-- 🎨 **skins** — unlock and equip different star styles
-- 🏆 **achievements** — 25+ challenges with rewards
-- 🌟 **golden events** — click golden stars for bonus stardust
-- ☄️ **comet rush** — temporary 2x CPS boost
-- 🛸 **ufo drops** — random flybys that drop stardust
-- ⏳ **offline earnings** — progress while you're away
-- 🎧 **lofi bgm** — chill background music (toggle on/off)
-- 📱 **mobile friendly** — works on phones too
-- 💾 **save/load** — export and import your progress
+This is a continuation of **Gouda Power Clicker V3.7** — evolved from cheese to cosmos.
 
 ---
 
-## 🎮 how to play
+## ✨ Features
 
-click anywhere to earn stardust. buy units and upgrades to grow your production. prestige to earn nova energy for permanent boosts. the star evolves through 5 stages as you progress.
+- ⭐ **3D Evolving Star** — watch it grow from stardust to cosmic
+- 🎨 **Skins** — unlock and equip different star styles
+- 🏆 **Achievements** — 25+ challenges with rewards
+- 🌟 **Golden Events** — click golden stars for bonus stardust
+- ☄️ **Comet Rush** — temporary 2x CPS boost
+- 🛸 **UFO Drops** — random flybys that drop stardust
+- ⏳ **Offline Earnings** — progress while you're away
+- 🎧 **Lofi BGM** — chill background music (toggle on/off)
+- 📱 **Mobile Friendly** — works on phones too
+- 💾 **Save / Load** — export and import your progress
 
 ---
 
-## 🧀 version history
+## 🎮 How to Play
 
-| version | name | notes |
+Click anywhere to earn stardust. Buy units and upgrades to grow your production. Prestige to earn Nova Energy for permanent boosts. The star evolves through 5 stages as you progress.
+
+---
+
+## 🧀 Version History
+
+| Version | Name | Notes |
 |---------|------|-------|
-| v1.0 | the merge | cheese → cosmic, first 3d star |
-| v1.5 | 3d cosmos | full 3d, lofi audio, evolving star |
-| v1.6 | the cosmic release | post-processing, skins |
-| v1.7 | lofi cosmos | film grain, soft glow |
-| v1.8 | the feature merge | tabs, achievements, settings |
-| v2.0 | the ascension update | golden events, comet rush, ufo, offline earnings, more achievements, lofi bgm, 5x/50x buttons |
+| v0.1 | The Merge | Cheese to cosmic, first 3D star |
+| v0.2 | 3D Cosmos | Full 3D, Lofi audio, evolving star |
+| v0.3 | The Cosmic Release | Post-processing, skins |
+| v0.4 | Lofi Cosmos | Film grain, soft glow |
+| v0.5 | The Grand Cosmos | Tabs, achievements, settings |
+| v0.6 | The Ascension Update | Golden events, comet rush, UFO, offline earnings, more achievements, Lofi BGM, 5x/50x buttons |
+| v0.7 | The QOL Update | Firefox fix, stats tab, prestige tree, daily rewards, collapsible shop, tooltips, favorites, CPS breakdown, more achievements |
 
 ---
 
-## 🛠️ built with
+## 🛠️ Built With
 
-- three.js — 3d rendering
-- vanilla js — no dependencies
-- web audio api — sfx and lofi bgm
-- localStorage — save system
+- Three.js — 3D rendering
+- Vanilla JS — no dependencies
+- Web Audio API — SFX and Lofi BGM
+- LocalStorage — save system
 
 ---
 
-## 📄 license
+## 📄 License
 
-mit — open source, do whatever you want with it.
+MIT — open source, do whatever you want with it.
