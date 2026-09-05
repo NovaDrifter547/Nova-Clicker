@@ -1,4 +1,4 @@
-:ATTENTION: This game is discontinued due to hate... I am so, so sorry. If anyone even cared (which no one does or ever will T-T)I would've kept the game going, but everyone hates me and this game for some reason... not one person actually enjoyed it. So this is goodbye.
+:ATTENTION: This game is discontinued due to hate... I am so, so sorry. If anyone even cared (which no one does or ever will T-T) I would've kept the game going, but everyone hates me and this game for some reason... not one person actually enjoyed it. So this is goodbye.
 
 # 🌌 Nova Clicker
 
